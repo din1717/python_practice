@@ -1,0 +1,3 @@
+
+i am created a new file by using bash
+
